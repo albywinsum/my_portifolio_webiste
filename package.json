@@ -1,0 +1,24 @@
+{
+  "name": "my_portifolio_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "homepage": "https:://albywinsum.github.io/my_portifolio_website",
+  "scripts": {
+    "deploy": "gh-pages -d my_portifolio_website"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albywinsum/my_portifolio_webiste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albywinsum/my_portifolio_webiste/issues"
+  },
+  "homepage": "https://github.com/albywinsum/my_portifolio_webiste#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
