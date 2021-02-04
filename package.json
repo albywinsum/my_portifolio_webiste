@@ -5,7 +5,7 @@
   "main": "main.js",
   "homepage": "https:://albywinsum.github.io/my_portifolio_website",
   "scripts": {
-    "deploy": "gh-pages -d"
+    "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
