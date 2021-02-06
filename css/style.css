@@ -541,3 +541,14 @@ footer {
     display: block;
     margin-top: 2em;
 }
+
+/* Portifolio details */
+.portifolio-details {
+    padding: 0 2.5em 2.5em;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.portifolio-details p {
+    max-width: 800px;
+}
